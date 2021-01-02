@@ -1,4 +1,5 @@
 # CacThuatThongMinhNhanTao
 DoAnCuoiKy
-link:https://github.com/dvnhanh/CacThuatThongMinhNhanTao/blob/
+link github:https://github.com/dvnhanh/CacThuatThongMinhNhanTao/blob/
+link video:https://youtu.be/h3kAqrsxedU
 
